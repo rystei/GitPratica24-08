@@ -7,8 +7,12 @@ Var
 
 Inicio
 // Marcos fa�a um codigo onde imprima a subtra��o de 10 - 7
+
+escreval(10+7)
+
 escreval(10-7)
 // Reynner fa�a um codigo onde imprima a subtra��o de 10 + 7
+
 
 
 
